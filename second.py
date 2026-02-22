@@ -1,3 +1,3 @@
-a=56
-b=34
-print(a-b)
+a=54
+b=2
+print(a*b)
