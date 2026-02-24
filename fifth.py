@@ -2,9 +2,9 @@
 
 def odd_even_finder(number):
     if (number%2)==0:
-        return "Number is even"
+        print( "Number is even")
     else:
-        return "Number is odd"
+        print( "Number is Odd")
     
-number=input("Enter the number you wish to check:")
+number=int(input("Enter the number you wish to check:"))
 odd_even_finder(number)
