@@ -1,0 +1,8 @@
+print(type(10))
+print(type('a'))
+print(type(10.5))
+print(type(10+5j))
+print(type([1,4,7]))
+print(type({'a','b',2}))
+print(type(('a','b',1)))
+print(type({'a':1,'b':2}))
